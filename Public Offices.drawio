@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" pages="2">
+  <diagram name="Federal" id="oX4VnLM-7_EgUCGdJRYS">
+    <mxGraphModel dx="860" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P0bClZlY-elawe8jVaII-2" parent="1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="820" x="15" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Federal&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Judicial&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="90" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Executive&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="350" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Legislative&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="610" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;President&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="365" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S Senator&lt;/font&gt;&lt;div&gt;6 yr term&lt;/div&gt;&lt;div&gt;All voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="625" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S Senator&lt;/font&gt;&lt;div&gt;6 yr term&lt;/div&gt;&lt;div&gt;All voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="625" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 1 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 2 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 3 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 4 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 5 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 6 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 7 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="P0bClZlY-elawe8jVaII-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;U.S House Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District 8 Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="585" y="970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="State" id="ceP9XaegWLYWi4Xg-BFi">
+    <mxGraphModel dx="717" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-0" />
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-1" parent="dnVYLmRx1bpsJ16RhCsV-0" />
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-2" parent="dnVYLmRx1bpsJ16RhCsV-1" style="line;strokeWidth=2;html=1;" value="" vertex="1">
+          <mxGeometry height="10" width="820" x="15" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-3" parent="dnVYLmRx1bpsJ16RhCsV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;State&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="350" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-4" parent="dnVYLmRx1bpsJ16RhCsV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Judicial&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="90" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-5" parent="dnVYLmRx1bpsJ16RhCsV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Executive&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="350" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-6" parent="dnVYLmRx1bpsJ16RhCsV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h1&gt;Legislative&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="610" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-7" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Governor&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="365" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-8" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MN Senator&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;Senate District # Voters&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="610" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dnVYLmRx1bpsJ16RhCsV-10" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;MN State Representative&lt;/font&gt;&lt;div&gt;2 yr term&lt;br&gt;MN District # Voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="584.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-0" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;District Court Judge&lt;/font&gt;&lt;div&gt;6 yr term&lt;/div&gt;&lt;div&gt;Judicial District # voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="85" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-3" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Secretary of State&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="345" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-4" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Attorney General&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="345" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-5" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;State Auditor&lt;/span&gt;&lt;br&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="345" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-6" parent="dnVYLmRx1bpsJ16RhCsV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="67" vertex="1">
+          <mxGeometry height="30" width="30" x="590" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-7" parent="dnVYLmRx1bpsJ16RhCsV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="134" vertex="1">
+          <mxGeometry height="30" width="30" x="570" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-9" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lieutenant Governor&lt;/font&gt;&lt;div&gt;4 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="345" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="grpPG0KcBBzhoKT9orqP-11" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Supreme Court Justices&lt;/font&gt;&lt;div&gt;6 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4k-PgDf6NYGvDBJTehtX-0" parent="dnVYLmRx1bpsJ16RhCsV-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Court of Appeals Judges&lt;/font&gt;&lt;div&gt;6 yr term&lt;/div&gt;&lt;div&gt;All MN voters&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="75" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4k-PgDf6NYGvDBJTehtX-2" parent="dnVYLmRx1bpsJ16RhCsV-1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="10" vertex="1">
+          <mxGeometry height="30" width="30" x="70" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
